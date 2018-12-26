@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: row;
   width: 100%;
-  margin: 0 10%;
+  padding: 0 10%;
 }
 
 .siteLogo {
@@ -13,6 +13,7 @@
 .hotLine {
   width: 60%;
   text-align: right;
+  font-size: 20px;
 }
 
 /*# sourceMappingURL=mystyle.css.map */
