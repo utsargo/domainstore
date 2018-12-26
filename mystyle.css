@@ -1,3 +1,17 @@
+.header-top-area {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
 
+.siteLogo {
+  width: 40%;
+  text-align: left;
+}
+
+.hotLine {
+  width: 60%;
+  text-align: right;
+}
 
 /*# sourceMappingURL=mystyle.css.map */
